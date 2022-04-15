@@ -2,7 +2,7 @@
 
 ## Useful Links
 
-- [Mayhem Freemium](https://mayhem.forallsecure.com/)
+- [Mayhem Free](https://mayhem.forallsecure.com/)
 - [Mayhem Hacking Community](https://community.forallsecure.com/)
 - [Mayhem Heroes GitHub Org](https://github.com/mayhemheroes)
 - [Submission Form](https://dydbdnwi0qu.typeform.com/to/l6MK0WJp)
