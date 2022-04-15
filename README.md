@@ -4,11 +4,7 @@
 
 - [Mayhem Freemium](https://mayhem.forallsecure.com/)
 - [Mayhem Hacking Community](https://community.forallsecure.com/)
-- [Discord Invite](https://discord.gg/yszjX46N)
 - [Mayhem Heroes GitHub Org](https://github.com/mayhemheroes)
-- [Target List](https://docs.google.com/spreadsheets/d/1cFwb9ZQMGRrZk8NxaGYX54Qdk3rN53ZW1k3SA36jyR8/edit?usp=sharing)
-- [Survey 1 (Training)](https://dydbdnwi0qu.typeform.com/to/jZEKf0it)
-- [Survey 2 (Hackathon)](https://dydbdnwi0qu.typeform.com/to/gyUrPXDM)
 - [Submission Form](https://dydbdnwi0qu.typeform.com/to/l6MK0WJp)
 
 ## Exercises
