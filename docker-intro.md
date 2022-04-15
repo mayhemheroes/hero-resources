@@ -130,11 +130,11 @@ This lab will show you how to build a Docker image for a toy program, push it to
 
 Now that you've logged in to the GitHub container registry, we can build and push a Docker image.
 
-1. Clone the hackathon-resources repo and change into the lab2b directory.
+1. Clone the hero-resources repo and change into the lab2b directory.
 
     ```
-    git clone https://github.com/mayhemheroes/hackathon-resources.git
-    cd hackathon-resources/lab2b/
+    git clone https://github.com/mayhemheroes/hero-resources.git
+    cd hero-resources/lab2b/
     ```
 
 2. List the contents of the lab2b directory.
@@ -232,7 +232,7 @@ Now that you've pushed your image to Mayhem, let's kick off a run.
 
     ```yaml
     # Namespaced project name that the target belongs to
-    project: nathanjackson/hackathon
+    project: fuzzme
 
     # Target name (should be unique within the project)
     target: fuzzme
@@ -257,7 +257,7 @@ Now that you've pushed your image to Mayhem, let's kick off a run.
     You should see output similar to the following:
 
     ```
-    Run started: hackathon/fuzzme/1
-    Run URL: https://mayhem.forallsecure.com:443/nathanjackson/hackathon/fuzzme/1
-    hackathon/fuzzme/1
+    Run started: fuzzme/fuzzme/1
+    Run URL: https://mayhem.forallsecure.com:443/nathanjackson/fuzzme/fuzzme/1
+    fuzzme/fuzzme/1
     ```

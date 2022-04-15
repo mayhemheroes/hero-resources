@@ -118,13 +118,13 @@ The command should look similar to this:
 mayhem login https://mayhem.forallsecure.com/ <YOUR API KEY>
 ```
 
-## Step 3. Clone hackathon-resources.
+## Step 3. Clone hero-resources.
 
-Clone the hackathon-resources repo and change into the lighttpd directory.
+Clone the hero-resources repo and change into the lighttpd directory.
 
 ```
-git clone https://github.com/mayhemheroes/hackathon-resources
-cd hackathon-resources/lighttpd/
+git clone https://github.com/mayhemheroes/hero-resources
+cd hero-resources/lighttpd/
 ```
 
 ## Step 4. Start the run with the Mayhem CLI.
