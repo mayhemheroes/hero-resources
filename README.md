@@ -19,7 +19,7 @@
 
 1. Select a repository for integration.
 
-    See the target requirements.
+    See the [Target Checklist](https://github.com/mayhemheroes/hero-resources#target-checklist).
 
 2. Create a fork of the repo you want to integrate.
 
@@ -49,13 +49,13 @@ Targets that you wish to get paid for must meet the following criteria:
 
 * Mayhem is not already integrated. You can find a list of integrated repositories at https://github.com/mayhemheroes.
 
-If in doubt, ask in Discord or on the Mayhem Community.
+* The project is not part of oss-fuzz.
+
+If in doubt, ask in the [Mayhem Hacking Community](https://community.forallsecure.com/).
 
 ## Troubleshooting Checklist
 
 There are several small configuration steps that you'll need to take on your repo in order to properly integrate a repo with Mayhem. They are easy to miss, so here is a list for your reference:
 
 * Package has public visibility.
-
-* Fork repository is configured with a `MAYHEM_TOKEN` secret.
 
