@@ -1,4 +1,4 @@
-# Hackathon Resources
+# Hero Resources
 
 ## Useful Links
 
@@ -39,7 +39,7 @@
 
 Targets that you wish to get paid for must meet the following criteria:
 
-* Is a public repository on github.com.  Private repositories are currently not qualified.
+* Is a public repository hosted on github.com.  Mirrors and private repositories are currently not qualified.
 
 * Has 100 or more stars.
 
@@ -51,6 +51,14 @@ Targets that you wish to get paid for must meet the following criteria:
 
 * The project is not part of oss-fuzz.
 
+Here are a couple of tips for integrating your project.
+
+* Make sure that the target you're integrating is first-party! Third-party integrations are not eligible (Hint: Check the filepath!)
+
+* Look for a `/fuzz` directory. There might already be fuzzing targets written for you.
+
+* Look for a unit test directory. You may be able to leverage unit tests to create fuzz targets.
+
 If in doubt, ask in the [Mayhem Hacking Community](https://community.forallsecure.com/).
 
 ## Troubleshooting Checklist
@@ -58,4 +66,5 @@ If in doubt, ask in the [Mayhem Hacking Community](https://community.forallsecur
 There are several small configuration steps that you'll need to take on your repo in order to properly integrate a repo with Mayhem. They are easy to miss, so here is a list for your reference:
 
 * Package has public visibility.
-
+* Package has write access.
+* Repository is linked to package.
