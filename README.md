@@ -50,6 +50,8 @@ Targets that you wish to get paid for must meet the following criteria:
 * Mayhem is not already integrated. You can find a list of integrated repositories at https://github.com/mayhemheroes.
 
 * The project is not part of oss-fuzz.
+ 
+* The project has been active in the last 6 months
 
 Here are a couple of tips for integrating your project.
 
@@ -68,3 +70,5 @@ There are several small configuration steps that you'll need to take on your rep
 * Package has public visibility.
 * Package has write access.
 * Repository is linked to package.
+
+See this community post for more info: https://community.forallsecure.com/t/error-buildx-call-failed-with-error-denied-installation-not-allowed-to-write-organization-package/354
