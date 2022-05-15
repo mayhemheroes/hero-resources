@@ -49,9 +49,11 @@ Targets that you wish to get paid for must meet the following criteria:
 
 * Mayhem is not already integrated. You can find a list of integrated repositories at https://github.com/mayhemheroes.
 
-* The project is not part of oss-fuzz.
+* The project is not part of OSS-Fuzz (https://github.com/google/oss-fuzz/tree/master/projects).
  
-* The project has been active in the last 6 months
+* The project has been active in the last 6 months.
+
+* The resulting Mayhem run generates > 10 new test cases
 
 Here are a couple of tips for integrating your project.
 
